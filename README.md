@@ -69,4 +69,4 @@ O objetivo no teste prático não é que você encontre o melhor modelo, mas ent
 
     \(ii\) o arquivo .\*pdf com respostas do teste técnico; e
 
-    \(iii\) a pasta fgv_ibre_ds_practical_test zipada contendo todos os arquivos gerados.
+    \(iii\) a pasta fgv_ibre_ds_practical_challenge zipada contendo todos os arquivos gerados.
