@@ -26,13 +26,13 @@ Notas:
 1. todos os valores no arquivo de dados representam números índices, se desejar obter a variação percetual de um determinado mês use a seguinte fórmula:
 
 $$
-\text{variação (%)}_{\text{mês}} = \frac{\text{n. índice no mês} - \text{n. índice no mês anterior}}{\text{n. índice no mês anterior}} \times 100.
+\text{variação }(\%)_{\text{ mês}} = \frac{\text{n. índice no mês} - \text{n. índice no mês anterior}}{\text{n. índice no mês anterior}} \times 100.
 $$
 
-Exemplo: a inflação oficial no mês de junho foi 0,67%, isto é, 
+Exemplo: a inflação oficial no mês de junho de 2022 foi 0,67%, isto é, 
 
 $$
-\text{variação (%)}_{\text{Jun/22}} = \frac{\text{6455,85} - \text{6412,88}}{\text{6412,88}} \times 100 = \text{0,67%};
+\text{variação }(\%)_{\text{ Jun/22}} = \frac{\text{6455,85} - \text{6412,88}}{\text{6412,88}} \times 100 = \text{0,67}\%;
 $$
 
 
