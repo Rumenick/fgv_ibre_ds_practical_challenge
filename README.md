@@ -14,11 +14,16 @@ Prever a inflação oficial do Brasil mês a mês até o final do ano de 2022.
 
 ### Quais dados posso usar?
 
-Na pasta `data` temos um arquivo \*.xls denominado indices, nele você encontrará as séries históricas dos seguintes índices:
+Na pasta `data` temos um arquivo \*.xls denominado `indices`, nele você encontrará as séries históricas dos seguintes índices:
 
 -   IPCA (Número Índices) - Índice Nacional de Preços ao Consumidor Amplo do IBGE;
+
 -   Índice Geral de Preços do Mercado - IGP-M do FGV IBRE;
--   Índice de Preços ao Consumidor (IPC); e
+
+-   IPC-BR-M-Índice Mensal - (POF 2017/2018). Vigência a partir de 01/2020: Índice de Preços ao Consumidor (IPC) do FGV IBRE; 
+
+- IPA-EP-M (Número Índice): Índices de Preços ao Consumidor Amplo do FGV IBRE;e
+
 -   INCC-M - Índice Nacional de Custo da Construção (INCC) do FGV IBRE.
 
 Notas:
