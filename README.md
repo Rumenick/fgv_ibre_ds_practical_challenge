@@ -10,20 +10,20 @@ Neste repositório temos o material fornecido para realizar o teste prático par
 
 ### Qual é o desafio?
 
-Prever a inflação oficial do Brasil mês a mês até o final do ano 2022.
+Prever a inflação oficial do Brasil mês a mês até o final do ano de 2022.
 
 ### Quais dados posso usar?
 
-Na pasta `data` temos um arquivo \*.xls denominado indices, nele você encontrara as séries históricas dos seguintes índices:
+Na pasta `data` temos um arquivo \*.xls denominado indices, nele você encontrará as séries históricas dos seguintes índices:
 
 -   IPCA (Número Índices) - Índice Nacional de Preços ao Consumidor Amplo do IBGE;
 -   Índice Geral de Preços do Mercado - IGP-M do FGV IBRE;
--   Índice de Preços ao Consumidor (IPC);
--   INCC-M - Índice Nacional de Custo da Construção (INCC) do FGV IBRE;
+-   Índice de Preços ao Consumidor (IPC); e
+-   INCC-M - Índice Nacional de Custo da Construção (INCC) do FGV IBRE.
 
 Notas:
 
-1.  todos os valores no arquivo de dados representam números índices, se desejar obter a variação percetual de um determinado mês use a seguinte fórmula:
+1.  todos os valores no arquivo de dados representam números índices, se desejar obter a variação percentual (inflação) de um determinado mês use a seguinte fórmula:
 
 $$
 \text{variação (\\%)}_{\text{ mês}} = \frac{\text{n. índice no mês} - \text{n. índice no mês anterior}}{\text{n. índice no mês anterior}} \times 100.
@@ -48,9 +48,9 @@ O objetivo no teste prático não é que você encontre o melhor modelo, mas ent
 -   Explore o contexto dos dados;
 -   Realize uma análise exploratória dos dados;
 -   Teste modelos econométricos, estatísticos e/ou de Aprendizado de Máquina;
--   Elaborar um breve apresentação contendo seu entendimento do contexto dos dados e o racional desde a análise exploratoria dos dados até a escolha do modelo.
+-   Elaborar um breve apresentação contendo seu entendimento do contexto dos dados e o racional desde a análise exploratória dos dados até a escolha do modelo.
 
-**Observação:** além do teste prático, será enviado via e-mail um teste técnico, que busca explorar sua capacidade de esboçar uma solução e planejar as etapas para resolve um problema de extração de dados da Web e um porblema de análise de envolvendo bigdata.
+**Observação:** Além do teste prático, será enviado via e-mail um teste técnico, que busca explorar sua capacidade de esboçar uma solução e planejar as etapas para resolver um problema de extração de dados da Web e um problema de análise envolvendo big data.
 
 ### Como devo entregar o teste?
 
