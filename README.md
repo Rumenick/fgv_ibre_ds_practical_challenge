@@ -4,7 +4,7 @@
 
 Agradecemos o tempo disposto para participar do processo.
 
-Neste repositório temos o material fornecido para realizar o teste prático para vaga de Cientista de Dados (Pleno/Sênior) do FGV IBRE, bem como são apresentadas abaixo alguns instruções para realizar o desafio.
+Neste repositório temos o material fornecido para realizar o teste prático para vaga de Cientista de Dados do FGV IBRE, bem como são apresentadas abaixo alguns instruções para realizar o desafio.
 
 ## Desafio
 
