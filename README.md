@@ -32,7 +32,7 @@ $$
 Exemplo: a inflação oficial no mês de junho de 2022 foi 0,67%, isto é, 
 
 $$
-\text{variação (percentual)}_{\text{ Jun/22}} = \frac{\text{6455,85} - \text{6412,88}}{\text{6412,88}} \times 100 = \text{0,67/%};
+\text{variação (percentual)}_{\text{ Jun/22}} = \frac{\text{6455,85} - \text{6412,88}}{\text{6412,88}} \times 100 = \text{0,67}%;
 $$
 
 
