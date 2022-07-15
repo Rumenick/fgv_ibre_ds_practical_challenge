@@ -61,10 +61,10 @@ __Observação:__ além do teste prático, será enviado via e-mail um teste té
 + na pasta `src` salve todos os scripts/notebooks (ex.: .r, .rmd, .py, .ipynb) utilizados;
 + responda ao e-mail anexando: 
 
-(i) a apresentação;
+  (i) a apresentação;
 
-(ii) o arquivo .*pdf com respostas do teste técnico; e
+  (ii) o arquivo .*pdf com respostas do teste técnico; e
 
-(iii) a pasta fgv_ibre_ds_practical_test zipada contendo todos os arquivos gerados.
+  (iii) a pasta fgv_ibre_ds_practical_test zipada contendo todos os arquivos gerados.
 
 
