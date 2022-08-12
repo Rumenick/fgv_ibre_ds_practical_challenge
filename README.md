@@ -44,7 +44,7 @@ $$
 
 ### Onde posso encontrar mais contexto sobre os dados?
 
-Os canais oficiais do FGV IBRE (site, youtube, linkedin) e do IBGE são excelentes fontes, fique a fonte para explorar.
+Os canais oficiais do FGV IBRE (site, youtube, linkedin) e do IBGE são excelentes fontes, fique a vontade para explorar.
 
 ### O que esperamos como resultado do teste?
 
