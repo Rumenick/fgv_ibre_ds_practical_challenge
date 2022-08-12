@@ -48,7 +48,7 @@ Os canais oficiais do FGV IBRE (site, youtube, linkedin) e do IBGE são excelent
 
 ### O que esperamos como resultado do teste?
 
-O objetivo no teste prático não é que você encontre o melhor modelo, mas entender qual é o racional utilizado para resolver um potencial problema do seu dia a dia de trabalho como Cientista de Dados no FGV IBRE. Sendo assim, dentro do **prazo de 7 dias**, esperamos que você:
+O objetivo no teste prático não é que você encontre o melhor modelo, mas entender qual é o racional utilizado para resolver um potencial problema do seu dia a dia de trabalho como Cientista de Dados no FGV IBRE. Sendo assim, esperamos que você:
 
 -   Explore o contexto dos dados;
 -   Realize uma análise exploratória dos dados;
